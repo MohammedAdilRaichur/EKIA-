@@ -1,0 +1,13 @@
+streamlit
+fastapi
+python-dotenv
+fpdf
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langgraph
+chromadb
+PyMuPDF
+sentence-transformers
+pydantic
